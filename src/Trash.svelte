@@ -1,3 +1,4 @@
+<!-- This component is responsible of displaying notes that are moved to trash and allowing user to permanently remove them -->
 <script>
 	import { notesStore, trashStore } from "./store";
 	import { flip } from "svelte/animate";

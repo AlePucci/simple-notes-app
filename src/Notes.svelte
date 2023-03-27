@@ -1,3 +1,4 @@
+<!-- This component is responsible for displaying created notes and allowing the user to create new ones via the upper text field -->
 <script>
 	import { uid, notesStore, trashStore } from "./store.js";
 	import { clickOutside } from "./clickOutside.js";

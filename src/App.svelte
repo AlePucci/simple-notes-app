@@ -1,3 +1,5 @@
+<!-- Main component of the app. It consists of the sidebar and page content -->
+<!-- University project for final report carried out during external internship -->
 <script>
 	import Notes from "./Notes.svelte";
 	import Trash from "./Trash.svelte";
